@@ -1,0 +1,675 @@
+@media (min-width: 279px) and (max-width: 319px){
+
+  .header .navbar-nav .nav-item-1 .btn-success {
+    margin: 0px 0px 10px 8px;
+    padding: 4px 20px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.inner-banner h2 {
+    font-size: 33px;
+    font-weight: 700;
+    line-height: 43px;
+    text-align: center;
+    }
+
+.banner .inner-banner img {
+    width: 250px;
+}
+
+.inner-banner p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    }
+
+    .banner .inner-banner .member {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: center;
+}
+
+.Strategy .inner-strategy h2 {
+
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 34px;
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+
+}
+
+.Strategy .inner-strategy-1 .fa {
+    font-size: 24px;
+    margin: 22px 0px 0px 40px;
+}
+.Strategy .inner-strategy-2 .fa {
+    font-size: 24px;
+    margin: 0px 0px 40px 40px;
+}
+
+.instruction-header .inner-work img {
+    width: 100px;
+    margin: 0px 0px 0px 78px;
+}
+
+.near-header .near-work .near-logo {
+    width: 100px;
+    margin: 25px 0px 0px 78px;
+}
+
+.near-area .near-form-2 iframe {
+    border-radius: 10px;
+    margin: 20px 0px 30px 0px;
+    width: 255px;
+}
+
+.near-header .near-work h1 {
+    font-size: 24px;
+    line-height: 36px
+}
+
+.near-area .near-form h3 {
+    font-size: 20px;
+    line-height: 30px;
+    }
+
+
+.social .social-img img {
+    width: 250px;
+    margin: 20px 0px 0px 0px;
+}   
+
+.social .social-info h2 {
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 700;
+    color: #252B42;
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+}
+
+.social .social-info p{
+
+	text-align: center;
+}
+
+.social .social-info .fa {
+    font-size: 32px;
+    line-height: 42px;
+    color: #252B42;
+    margin: 0px 0px 0px 68px;
+    text-align: center;
+}
+
+.inner-fun {
+    width: 100%;
+    padding: 40px;
+    text-align: center;
+    border: 2px solid #5e6c7a;
+    margin: 0px 0px 15px 0px;
+}
+
+.footer .wedget-section .wedget h4 {
+
+	text-align: center;
+}
+
+.footer .wedget-section .wedget p {
+
+   text-align: center;
+
+	}
+
+.footer .wedget-section .wedget .btn-link {
+  
+  text-align: center;
+      margin: 0px 0px 0px 68px;
+
+}
+
+.footer .wedget-section .wedget .img-fluid {
+    padding: 0px;
+    margin: 0px 0px 10px 5px;
+}
+
+.wedget ul li {
+    list-style: none;
+    font-size: 14px;
+    line-height: 24px;
+    color: #9eacba;
+    margin: 0px 0px 5px 30px;
+}
+
+.letest-work .card .card-img-top {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    height: 200px;
+}
+
+.letest-work .title h2 {
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #252B42;
+    letter-spacing: 1px;
+}
+
+.letest-work .card .card-title {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #252B42;
+}
+
+.letest-work .card{
+	    margin: 0px 0px 20px 0px;
+}
+
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+
+    .header .navbar-nav .nav-item-1 .btn-success {
+    margin: 0px 20px 15px 14px;
+
+}
+
+.header .navbar-nav .nav-item .btn-success{
+
+	margin: 0px 0px 0px 15px;
+}
+
+.banner .inner-banner img {
+    width: 260px;
+    margin: -53px -59px;
+}
+
+.inner-banner h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 46px;
+    color: #252B42;
+    text-align: center
+
+}
+
+.banner .inner-banner .member {
+    
+    margin: 30px 0px 0px 10px;
+}
+
+.Strategy .inner-strategy-1 .fa {
+    font-size: 24px;
+    margin: 20px 0px 0px 34px;
+}
+
+.Strategy .inner-strategy-2 .fa {
+    font-size: 24px;
+    margin: 20px 0px 60px 34px;
+}
+
+.feature .inner-feature-1 img {
+    width: 194px;
+    margin: -90px 0px 0px 84px;
+}
+
+.feature .inner-feature img {
+    width: 200px;
+    margin: -90px 0px 0px 87px;
+}
+
+
+.Strategy .inner-strategy h2 {
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 44px;
+    color: #252B42;
+    text-align: center;
+    margin: 0px;
+
+}
+
+.instruction .instruction-feature img {
+    width: 150px;
+}
+
+.letest-work .title h2 {
+    font-size: 28px;
+    line-height: 38px;
+
+ }
+
+.letest-work .card .card-img-top {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    height: 200px;
+}
+
+.letest-work .card {
+    border-radius: 5px;
+    border: 1px solid #eee;
+    margin: 0px 0px 15px 0px;
+}
+
+.instruction-header .inner-work img {
+    width: 100px;
+    margin: 0px 0px 0px 132px;
+}
+
+.near-header .near-work .near-logo {
+    width: 100px;
+    margin: 25px 0px 0px 132px;
+}
+
+.near-area .near-form h3{
+
+	text-align: center;
+}
+
+.near-area .near-form p{
+
+	text-align: center;
+}
+
+.near-area .near-form-2 iframe {
+    border-radius: 10px;
+    margin: 30px 0px 30px 0px;
+    width: 366px;
+}
+
+.social .social-img img {
+    width: 365px;
+    margin: 40px 0px 0px 0px;
+}
+
+.social .social-info h2 {
+    font-size: 28px;
+    line-height: 38px;
+    font-weight: 700;
+    color: #252B42;
+    text-align: center;
+    margin: 35px 0px 0px 0px;
+}
+
+.social .social-info p{
+
+	text-align: center;
+}
+
+.social .social-info .fa {
+    font-size: 32px;
+    line-height: 42px;
+    color: #252B42;
+    margin: 0px 0px 20px 105px;
+}
+
+.inner-fun{
+
+	margin: 0px 0px 20px 0px;
+}
+
+.footer .wedget-section .wedget h4{
+
+	text-align: center;
+
+}
+
+.footer .wedget-section .wedget p{
+
+	text-align: center;
+}
+
+.footer .wedget-section .wedget .btn-link{
+
+
+    margin: 0px 0px 0px 122px;
+}
+
+.footer .wedget-section .wedget .img-fluid {
+    padding: 0px;
+    margin: 0px 0px 20px 5px;
+}
+
+.wedget ul li {
+ 
+ margin: 0px 0px 5px 85px;
+
+}
+
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+
+	.header .navbar-nav .nav-item-1 .btn-success{
+
+		margin: 0px 0px 15px 5px;
+	}
+
+  .banner .inner-banner .member{
+
+  	text-align: center;
+  }
+
+  .inner-banner h2{
+   
+       font-size: 36px;
+    font-weight: 700;
+    line-height: 46px;
+
+  }
+
+  .Strategy .inner-strategy h2{
+
+  	    margin: 0px 0px 0px 0px;
+  }
+
+  .Strategy .inner-strategy-1 .fa {
+   
+   margin: 22px 0px 0px 60px;
+
+}
+
+.Strategy .inner-strategy-2 .fa{
+  
+  margin: 10px 0px 0px 60px;
+
+}
+
+.feature .inner-feature-1 img {
+    width: 220px;
+    margin: -100px 0px 0px 145px;
+}
+
+.feature .inner-feature img {
+    width: 265px;
+    margin: -120px 0px 0px 130px;
+}
+
+.instruction-header .inner-work img {
+    width: 100px;
+    margin: 0px 0px 0px 210px;
+}
+
+.instruction .instruction-feature img {
+    width: 200px;
+}
+
+
+.letest-work .card {
+  
+    margin: 0px 0px 20px 0px;
+}
+
+.near-header .near-work .near-logo {
+    width: 100px;
+    margin: 25px 0px 0px 210px;
+}
+
+.near-area .near-form h3{
+	text-align: center;
+}
+.near-area .near-form p{
+	text-align: center;
+}
+
+.near-area .near-form-2 iframe {
+    border-radius: 10px;
+    margin: 20px 0px 30px 0px;
+    width: 515px;
+}
+
+.social .social-img img {
+    width: 400px;
+    margin: 65px 0px 0px 60px;
+}
+
+.social .social-info h2 {
+    font-size: 34px;
+    line-height: 44px;
+    font-weight: 700;
+    color: #252B42;
+    text-align: center;
+    margin: 45px 0px 0px 0px;
+
+}
+
+.social .social-info p{
+
+	text-align: center;
+}
+
+.social .social-info .fa {
+    font-size: 32px;
+    line-height: 42px;
+    color: #252B42;
+    margin: 0px 0px 20px 150px;
+}
+
+.inner-fun {
+    width: 100%;
+    padding: 40px;
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+    border: 2px solid #5e6c7a;
+}
+
+.footer .wedget-section .wedget h4{
+
+	text-align: center;
+}
+
+.footer .wedget-section .wedget p{
+
+	text-align: center;
+}
+
+.footer .wedget-section .wedget .btn-link{
+
+	    margin: 0px 0px 0px 190px;
+}
+
+.footer .wedget-section .wedget img {
+    margin: 0px 0px 15px 5px;
+}
+
+.wedget ul li {
+    list-style: none;
+    font-size: 14px;
+    line-height: 24px;
+    color: #9eacba;
+    margin: 0px 0px 5px 160px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+
+	.header .navbar-nav .nav-item-1 .btn-success{
+     
+         margin: 0px 0px 15px 10px;
+
+	}
+
+	.banner .inner-banner .member{
+
+		text-align: center;
+	}
+
+	.Strategy .inner-strategy h2{
+
+		margin: 0px;
+	}
+
+	.Strategy .inner-strategy-1 .fa {
+    font-size: 24px;
+    margin: 22px 0px 0px 330px;
+}
+
+.Strategy .inner-strategy-2 .fa {
+    font-size: 24px;
+    margin: 10px 0px 100px 330px;
+}
+
+.feature .inner-feature-1 img {
+    width: 250px;
+    margin: -115px 0px 0px 210px;
+}
+.feature .inner-feature-1 h4 {
+    font-size: 32px;
+    line-height: 42px;
+   } 
+
+.feature .inner-feature-1 h5 {
+    font-size: 32px;
+    line-height: 42px;
+
+}
+
+.feature .inner-feature img {
+    width: 265px;
+    margin: -133px 0px 0px 215px;
+}
+    
+.feature .inner-feature h4{
+   
+   font-size: 32px;
+    line-height: 42px;
+
+}
+
+.feature .inner-feature h5 {
+    font-size: 32px;
+    line-height: 42px;
+
+}
+
+.instruction-header .inner-work img {
+    width: 150px;
+    margin: 0px 0px 0px 280px;
+}
+
+.instruction-header .inner-work h1 {
+    font-size: 44px;
+    line-height: 54px;
+
+}
+
+.instruction .instruction-feature img {
+    width: 250px;
+}
+
+.instruction .instruction-feature h4 {
+    font-size: 31px;
+    line-height: 42px;
+
+    }
+
+    .letest-work .card .card-img-top {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    height: 400px;
+}
+
+.letest-work .card .card-title {
+    font-size: 32px;
+    line-height: 42px;
+
+    }
+
+    .letest-work .card {
+    border-radius: 5px;
+    border: 1px solid #eee;
+    margin: 0px 0px 20px 0px;
+}
+
+.near-header .near-work .near-logo {
+    width: 100px;
+    margin: 25px 0px 0px 300px;
+}
+
+.near-area .near-form h3{
+	text-align: center;
+}
+
+.near-area .near-form p{
+	text-align: center;
+}
+
+.near-area .near-form-2 iframe {
+    border-radius: 10px;
+    margin: 50px 0px 30px 0px;
+    width: 695px;
+}
+
+.social .social-img img {
+    width: 500px;
+    margin: 65px 0px 0px 100px;
+}
+
+.social .social-info h2 {
+    font-size: 34px;
+    line-height: 44px;
+    font-weight: 700;
+    color: #252B42;
+    text-align: center;
+    margin: 65px 0px 0px 0px;
+}
+.social .social-info p{
+	text-align: center;
+}
+
+.social .social-info .fa{
+
+	    margin: 0px 0px 25px 212px;
+}
+
+.inner-fun{
+	    margin: 0px 0px 30px 0px;
+}
+
+.footer .wedget-section .wedget h4 {
+    font-size: 32PX;
+    line-height: 42PX;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    margin: 0px 0px 20px;
+}
+
+.footer .wedget-section .wedget p{
+
+	text-align: center;
+	font-size: 22px;
+	line-height: 32px;
+	font-weight: 500;
+}
+
+.footer .wedget-section .wedget .btn-link {
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0px 0px 0px 255px;
+    font-weight: 500;
+    padding: 0px;
+    text-decoration: none;
+    color: #9eacba;
+}
+.wedget ul li {
+    list-style: none;
+    font-size: 14px;
+    line-height: 24px;
+    color: #9eacba;
+    margin: 0px 0px 5px 225px;
+}
+}
+
+
+
+
+
+
